@@ -1,1 +1,1 @@
-ddd,d1d,ddd,d,wool,1,iron_ingot
+ddd,d1d,ddd,d,blue_wool,1,iron_ingot
