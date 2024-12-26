@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "lucky:items/destiny_lucky_potion"
+        "layer0": "lucky:item/destiny_lucky_potion"
     }
 }
