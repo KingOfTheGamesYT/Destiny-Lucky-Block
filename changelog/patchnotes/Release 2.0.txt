@@ -1,0 +1,26 @@
+Changes
+
+- Made the block naturally gen as single block like the regular blocks
+- Made the Mini Killer a Baby Zombie
+- Renamed the Destiny Lucky Sword to The Sword of Destiny
+- Lowered the Golden Carrot drop to 1-8 instead of 4-8
+
+New Regular Drops
+
+- Elytra named Angel Wings in Blue
+- Totem of Undying named Extra Life in Yellow
+- 3-15 Emeralds
+- Shield named Barrier in Red
+
+New Bow Drops
+
+- A Barrage of 16-32 normal Arrows
+- A Barrage of 16-32 Spectral Arrows
+
+Added
+
+- Bow of Destiny
+
+Fixed
+
+- Hero Armor not dropping
