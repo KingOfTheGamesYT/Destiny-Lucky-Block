@@ -1,0 +1,6 @@
+{
+    "parent": "lucky:item/bow_of_destiny",
+    "textures": {
+        "layer0": "lucky:item/bow_of_destiny_pulling_1"
+    }
+}
