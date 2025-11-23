@@ -7,6 +7,10 @@ ID=poppy,NBTTag=(display=(Name=#jsonStr(text="Internet Friends",color=blue,bold=
 ID=poppy,NBTTag=(display=(Name=#jsonStr(text="For Helping, Kristen",color=blue,bold=true)))@luck=2
 ID=shield,NBTTag=(display=(Name=#jsonStr(text="Barrier",color=red,bold=true)))@luck=2
 ID=elytra,NBTTag=(display=(Name=#jsonStr(text="Angel Wings",color=blue,bold=false)))@luck=2
+ID=totem_of_undying,NBTTag=(display=(Name=#jsonStr(text="Extra Life",color=yellow,bold=false)))@luck=2
+ID=enchanted_golden_apple,NBTTag=(display=(Name=#jsonStr(text="Food of The Gods",color=blue,bold=false)))@luck=2
+ID=flint_and_steel,NBTTag=(display=(Name=#jsonStr(text="Fate’s Ignition",color=purple,bold=false)))@luck=2
+ID=ender_pearl,NBTTag=(display=(Name=#jsonStr(text="Getaway Device",color=green,bold=false)))@luck=2
 
 / Unnamed Items
 ID=lucky:destiny_lucky_sword@luck=2
@@ -27,7 +31,12 @@ ID=rotten_flesh,amount=#rand(3,5)@luck=-1
 ID=rabbit_stew,amount=#rand(5,7)@luck=1
 group(ID=golden_sword;ID=golden_shovel;ID=golden_pickaxe;ID=golden_axe;ID=golden_hoe)@luck=2
 group(ID=carrot;ID=apple;ID=poisonous_potato;ID=baked_potato;ID=potato)@luck=0
-
+ID=cooked_beef,amount=#rand(3,15)@luck=2
+ID=lava_bucket@luck=1
+ID=golden_apple@luck=1
+ID=diamond_pickaxe@luck=1
+ID=gold_ingot,amount=#rand(2,9)@luck=1
+ID=iron_ingot,amount=#rand(2,9)@luck=1
 
 / Blocks
 ID=diamond_block,amount=2@luck=2
